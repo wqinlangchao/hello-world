@@ -1,2 +1,2 @@
 # hello-world
-learn how to use github
+Time waits for no one. No regrets, thank you
